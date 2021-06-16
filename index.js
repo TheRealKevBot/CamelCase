@@ -37,6 +37,3 @@ console.log(toCamelCase("camel case method"), "CamelCaseMethod");
 console.log(toCamelCase("say hello "), "SayHello");
 console.log(toCamelCase(" camel case word"), "CamelCaseWord");
 console.log(toCamelCase(" "), "");
-
-
-
